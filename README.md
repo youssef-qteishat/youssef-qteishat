@@ -1,9 +1,7 @@
 ## Hi there 👋
 My name is Youssef Qteishat. I'm a recent CS grad from UC Davis with a background across startup-style environments, large-scale companies, and personal technical projects. My experience includes full-stack development, cloud infrastructure, DevOps engineering, and automation. Excited to contribute my skills and expertise to build exciting and meaningful projects. Feel free to reach out!
 
-🔭 I’m currently working on: "Broom Service" and a CRM AI Voice Assistant
-
-🌱 I’m currently learning: AI/ML @ Headstarter
+🔭 I’m currently working on: AI/ML projects at Headstarter!
 
 <!--
 - 🌱 I’m currently learning:
